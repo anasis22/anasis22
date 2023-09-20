@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">I'm a Junior Frontend Developer 🤓, Now I’m pursuing Electronics and Communication Engineering .  Currently seeking a role in Frontend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning backend technologies 👨‍💻 and working on my full stack projects 🤓<br><br>- 🚀   Web Developer.<br><br>- 🛠   I’m currently working with Node.js, React.js, JavaScript, Redux, etc.<br><br>- Checkout my <img>Resume</img> </h3>
+<p align="left">I'm a Junior Frontend Developer 🤓, Now I’m pursuing Electronics and Communication Engineering .  Currently seeking a role in Frontend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning backend technologies 👨‍💻 and working on my full stack projects 🤓<br><br>- 🚀   Web Developer.<br><br>- 🛠   I’m currently working with Node.js, React.js, JavaScript, Redux, etc.<br><br>- Checkout my Resume </p>
 
 ###
 <br><br>

@@ -61,8 +61,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasis22.anasis22&left_text=♡ viewers"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasis22&label=Profile%20views&color=0e75b6&style=flat" alt="anasis22" /> </p>
 
 ###

@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910349-0aacf2d7-b479-4180-b4de-a079079a5fd6.jpg"  />
+  <img height="200" src="./gitR.png"  />
 </div>
 
 ###

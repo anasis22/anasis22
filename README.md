@@ -24,10 +24,9 @@
 ###
 
 <h4 align="left">I'm a Junior Frontend Developer 🤓, Now I’m pursuing Electronics and Communication Engineering .  Currently seeking a role in Frontend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning backend technologies 👨‍💻 and working on my full stack projects 🤓.<br><br>- 🚀   Software Engineer.<br><br>- 🛠   I’m currently working with Node.js, React.js, JavaScript, Redux, etc.</h4>
+<br><br>
+<br><br>
 
-###
-
-<h3 align="left"></h3>
 
 ###
 
@@ -67,7 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasis22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anasis22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###

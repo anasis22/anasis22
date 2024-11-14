@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I’m Anas Ismail, a Web Developer with 1 year of industry experience in creating responsive, dynamic applications with React, Next.js, and Django. My GitHub showcases projects like "Mail Dispatcher" and "Registration Onboarding," where I've focused on clean UI design, efficient data management, and seamless user experiences.
+<p align="left">I’m Anas Ismail, a Web Developer with 1 year of experience in creating responsive, dynamic applications with React, Next.js, and Django. My GitHub showcases projects like "Mail Dispatcher" and "Registration Onboarding," where I've focused on clean UI design, efficient data management, and seamless user experiences.
 
 🔧 I enjoy working with JavaScript-based applications, building reusable components, and optimizing applications for performance and SEO. I'm passionate about learning and actively expanding my knowledge in networking and telecommunications.
 
